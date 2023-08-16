@@ -1,3 +1,8 @@
 {
-    "data": ["Rock", "Salsa", "Metal", "HipHop"]
+    "data": [
+        "Rock",
+        "Salsa",
+        "Metal",
+        "HipHop"
+    ]
 }
